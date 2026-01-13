@@ -1,0 +1,31 @@
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.dll
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.pdb
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.dll
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.pdb
+C:\Users\Admin\source\repos\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csprojAssemblyReference.cache
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.dll
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.pdb
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.dll
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.pdb
+D:\BitBucket\EP1 Library\ep1-library\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.dll
+D:\BitBucket\EP1 Library\ep1-library\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.pdb
+D:\BitBucket\EP1 Library\ep1-library\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csprojResolveAssemblyReference.cache
+D:\BitBucket\EP1 Library\ep1-library\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.dll
+D:\BitBucket\EP1 Library\ep1-library\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.pdb
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.dll
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.pdb
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csprojResolveAssemblyReference.cache
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.dll
+C:\Users\jpanesa\Desktop\BitBucket\EP1 Library\EP1LIB-GGUEV-655999149\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.pdb
+C:\Users\gguevara\Desktop\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.dll
+C:\Users\gguevara\Desktop\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechlabsBotLibrary.pdb
+C:\Users\gguevara\Desktop\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.dll
+C:\Users\gguevara\Desktop\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechlabsBotLibrary.pdb
+C:\Users\gguevara\Desktop\ep1-library - 6\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechLabs Activities.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\bin\Debug\TechLabs Activities.pdb
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csproj.AssemblyReference.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\obj\Debug\Techlabs.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechLabs Activities.dll
+C:\Users\Jeffrey Rapirap\Documents\Vertaccount\RPA\EP1DBProcessor\EP1DBProcessor\EP1DBProcessor\obj\Debug\TechLabs Activities.pdb

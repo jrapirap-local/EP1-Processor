@@ -1,0 +1,5 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\EP1DBProcessor\bin\Debug\EP1DBProcessor.dll
+C:\Users\Admin\AppData\Local\Temporary Projects\EP1DBProcessor\bin\Debug\EP1DBProcessor.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\EP1DBProcessor\obj\Debug\EP1DBProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\EP1DBProcessor\obj\Debug\EP1DBProcessor.dll
+C:\Users\Admin\AppData\Local\Temporary Projects\EP1DBProcessor\obj\Debug\EP1DBProcessor.pdb
